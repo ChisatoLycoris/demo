@@ -1,0 +1,7 @@
+demo:
+  external-api:
+    base-url: https://google.com.tw
+  pfx:
+    path: xxx.pfx
+    password: abcde
+
